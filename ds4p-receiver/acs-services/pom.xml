@@ -191,10 +191,8 @@
                             <genWsdl>true</genWsdl>
                             <resourceDestDir>target/classes/META-INF</resourceDestDir>
                         </configuration>
-                    </execution>
-                    
-                </executions>
-                    
+                    </execution>          
+                </executions>        
             </plugin>
             <plugin>
                 <groupId>com.mycila.maven-license-plugin</groupId>
