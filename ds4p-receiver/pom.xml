@@ -20,5 +20,7 @@
     <module>ds4p-admin-test-harness-p2</module>
     <module>xds-document-service-client</module>
     <module>user-profile-service-client</module>
+    <module>xdsb-registry-client</module>
+    <module>xdsb-repository-client</module>
   </modules>
 </project>
