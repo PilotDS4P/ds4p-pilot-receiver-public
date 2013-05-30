@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    This software is being provided per FARS 52.227-14 Rights in Data - General.
+    Any redistribution or request for copyright requires written consent by the
+    Department of Veterans Affairs.
+
+-->
+<actions>
+        <action>
+            <actionName>CUSTOM-License File</actionName>
+            <displayName>License File</displayName>
+            <goals>
+                <goal>license:format</goal>
+            </goals>
+        </action>
+    </actions>
