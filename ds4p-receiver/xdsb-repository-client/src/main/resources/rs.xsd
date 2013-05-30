@@ -1,4 +1,11 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
+<!--
+
+    This software is being provided per FARS 52.227-14 Rights in Data - General.
+    Any redistribution or request for copyright requires written consent by the
+    Department of Veterans Affairs.
+
+-->
 <!-- $Header: /cvsroot/iheos/xdsref/schema/v3/rs.xsd,v 1.1 2007/09/25 12:06:45 
 	bmajurski Exp $ -->
 <schema targetNamespace="urn:oasis:names:tc:ebxml-regrep:xsd:rs:3.0"
