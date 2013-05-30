@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+
+    This software is being provided per FARS 52.227-14 Rights in Data - General.
+    Any redistribution or request for copyright requires written consent by the
+    Department of Veterans Affairs.
+
+-->
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
     <system systemId="http://healthcare2:8080/TestVAWebServices/SecuredDocumentServices?wsdl" uri="wsdl/healthcare2_8080/TestVAWebServices/SecuredDocumentServices.wsdl"/>
     <system systemId="http://healthcare2:8080/TestVAWebServices/SecuredDocumentServices?xsd=1" uri="wsdl/healthcare2_8080/TestVAWebServices/SecuredDocumentServices.xsd_1.xsd"/>
